@@ -5,7 +5,7 @@ This is a [React](https://reactjs.org/) app Know-Your-Emoji created using [CodeS
 ## Demo
 
 - Live demo of the app can be found at [codesandbox-TasteBud](https://mjlsdl.csb.app/)
-- - To make improvements to the code in this Sandbox, you can fork the [Sandbox](https://codesandbox.io/s/marknine-taste-bud-mjlsdl?file=/src/App.js) environment and proceed with the desired changes.
+- To make improvements to the code in this Sandbox, you can fork the [Sandbox](https://codesandbox.io/s/marknine-taste-bud-mjlsdl?file=/src/App.js) environment and proceed with the desired changes.
 
 ## Description
 
